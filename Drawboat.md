@@ -11,7 +11,7 @@
 
 
 - engine x2
-[Hanpose 17HS4401 x1]  (http://www.datasheet4u.com/pdf/17HS4401-pdf/928661)
+[Hanpose 17HS4401 x1](http://www.datasheet4u.com/pdf/17HS4401-pdf/928661)
 HANPOSE 17HS4401-S 40mm Nema 17 Stepper Motor 42 Motor 42BYGH 1.7A 40N.cm 4-lead Motor for 3D printer CNC Laser
 
 
@@ -29,8 +29,7 @@ HANPOSE 17HS4401-S 40mm Nema 17 Stepper Motor 42 Motor 42BYGH 1.7A 40N.cm 4-lead
 
 ### Vertical Track
 - track x1
-[Machifit 100-1000mm Black 2040 V-Slot Aluminum Profile Extrusion Frame for CNC](
-https://www.banggood.com/Machifit-Black-2020-V-Slot-Aluminum-Profile-Extrusion-Frame-for-CNC-Laser-Engraving-Machine-p-1341703.html?rmmds=detail-left-hotproducts__10&ID=534076&cur_warehouse=CN)
+[Machifit 100-1000mm Black 2040 V-Slot Aluminum Profile Extrusion Frame for CNC](https://www.banggood.com/Machifit-Black-2020-V-Slot-Aluminum-Profile-Extrusion-Frame-for-CNC-Laser-Engraving-Machine-p-1341703.html?rmmds=detail-left-hotproducts__10&ID=534076&cur_warehouse=CN)
 
 ### Head
 - Traveler:
