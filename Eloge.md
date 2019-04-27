@@ -1,4 +1,4 @@
-# L'éloge de la fuite
+# Eloge de la fuite
 
 ## Resources
 
