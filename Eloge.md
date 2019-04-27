@@ -11,9 +11,10 @@
 
 [Fichiers Inkscape](file://bmuyl.github.io/ResourcesEloge/Inkscape/)
 
-![test](https://bmuyl.github.io/ResourcesEloge/ResourcesEloge/Images/IMG_0893.jpg)
 
-![test](https://bmuyl.github.io/ResourcesEloge/ResourcesEloge/Images/IMG_0894.jpg)
+![test](https://bmuyl.github.io/ResourcesEloge/Images/IMG_0893.jpg)
+
+![test](https://bmuyl.github.io/ResourcesEloge/Images/IMG_0894.jpg)
 
 
 
