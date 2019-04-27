@@ -12,12 +12,9 @@
 [Fichiers Inkscape](file://bmuyl.github.io/ResourcesEloge/Inkscape/)
 
 
-![test](https://bmuyl.github.io/ResourcesEloge/Images/IMG_0893.jpg)
+![test](https://bmuyl.github.io/ResourcesEloge/Images/UNADJUSTEDNONRAW_thumb_10441.jpg)
 
-![test](https://bmuyl.github.io/ResourcesEloge/Images/IMG_0894.jpg)
-
-![test](https://bmuyl.github.io/ResourcesEloge/Images/IMG_0893.jpg)
-
+![test](https://bmuyl.github.io/ResourcesEloge/Images/UNADJUSTEDNONRAW_thumb_10444.jpg)
 
 ## Un rapide historique en images
 ![test](https://bmuyl.github.io/ResourcesEloge/Images/Laborit-Henri-Eloge-De-La-Fuite-Livre-1023096599_L.jpg)
