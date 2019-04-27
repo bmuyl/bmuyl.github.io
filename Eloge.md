@@ -4,9 +4,9 @@
 
 [Modèle 3d .. approché](https://bmuyl.github.io/Images/ResourcesEloge/Modele3DNX/Assemblage.zip)
 
-[Fichiers Inkscape ](https://bmuyl.github.io/Images/ResourcesEloge/Inkscape/Archive.zip)
+[Fichiers Inkscape](https://bmuyl.github.io/Images/ResourcesEloge/Inkscape/Archive.zip)
 
-[Fichiers Inkscape ](https://bmuyl.github.io/Images/ResourcesEloge/Inkscape/)
+[Fichiers Inkscape](https://bmuyl.github.io/Images/ResourcesEloge/Inkscape/)
 
 
 ## Un rapide historique en images
