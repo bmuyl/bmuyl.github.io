@@ -16,6 +16,7 @@
 
 ![test](https://bmuyl.github.io/ResourcesEloge/Images/IMG_0894.jpg)
 
+![test](https://bmuyl.github.io/ResourcesEloge/Images/IMG_0893.jpg)
 
 
 ## Un rapide historique en images
