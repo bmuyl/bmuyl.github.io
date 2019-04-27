@@ -5,15 +5,15 @@
 
 ## Resources
 
-[Modèle 3d .. approché](file://bmuyl.github.io/Images/ResourcesEloge/Modele3DNX/Assemblage.zip)
+[Modèle 3d .. approché](file://bmuyl.github.io/ResourcesEloge/Modele3DNX/Assemblage.zip)
 
-[Fichiers Inkscape](file://bmuyl.github.io/Images/ResourcesEloge/Inkscape/Archive.zip)
+[Fichiers Inkscape](file://bmuyl.github.io/ResourcesEloge/Inkscape/Archive.zip)
 
-[Fichiers Inkscape](file://bmuyl.github.io/Images/ResourcesEloge/Inkscape/)
+[Fichiers Inkscape](file://bmuyl.github.io/ResourcesEloge/Inkscape/)
 
-![test](https://bmuyl.github.io/ResourcesEloge/ResourcesEloge/Images/IMG_0893.JPG)
+![test](https://bmuyl.github.io/ResourcesEloge/ResourcesEloge/Images/IMG_0893.jpg)
 
-![test](https://bmuyl.github.io/ResourcesEloge/ResourcesEloge/Images/IMG_0894.JPG)
+![test](https://bmuyl.github.io/ResourcesEloge/ResourcesEloge/Images/IMG_0894.jpg)
 
 
 
