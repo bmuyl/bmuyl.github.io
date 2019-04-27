@@ -1,7 +1,13 @@
 # L'éloge de la fuite
 
+## Resources
 
-## Un rapide historique de la fabrication des portes
+[Modèle 3d .. approché](![test](https://bmuyl.github.io/Images/ResourcesEloge/Modele3DNX)]
+
+[Fichiers Inkscape ](![test](https://bmuyl.github.io/Images/ResourcesEloge/Inkscape)]
+
+
+## Un rapide historique en images 
 ![test](https://bmuyl.github.io/ResourcesEloge/Images/Laborit-Henri-Eloge-De-La-Fuite-Livre-1023096599_L.jpg)
 
 ![test](https://bmuyl.github.io/ResourcesEloge/Images/Screenshot 2019-04-27 at 12.04.44.png)
