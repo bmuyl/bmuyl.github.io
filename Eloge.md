@@ -2,9 +2,11 @@
 
 ## Resources
 
-[Modèle 3d .. approché](![test](https://bmuyl.github.io/Images/ResourcesEloge/Modele3DNX/Assemblage.zip)
+[Modèle 3d .. approché](https://bmuyl.github.io/Images/ResourcesEloge/Modele3DNX/Assemblage.zip)
 
-[Fichiers Inkscape ](![test](https://bmuyl.github.io/Images/ResourcesEloge/Inkscape/Archive.zip)
+[Fichiers Inkscape ](https://bmuyl.github.io/Images/ResourcesEloge/Inkscape/Archive.zip)
+
+[Fichiers Inkscape ](https://bmuyl.github.io/Images/ResourcesEloge/Inkscape/)
 
 
 ## Un rapide historique en images
