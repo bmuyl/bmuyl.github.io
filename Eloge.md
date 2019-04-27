@@ -5,16 +5,14 @@
 
 ## Resources
 
-[Modèle 3d .. approché](file://bmuyl.github.io/ResourcesEloge/Modele3DNX/Assemblage.zip)
+[Modèle 3d .. approché](file:///bmuyl.github.io/ResourcesEloge/Modele3DNX/Assemblage.zip)
 
-[Fichiers Inkscape](file://bmuyl.github.io/ResourcesEloge/Inkscape/Archive.zip)
+[Fichiers Inkscape](file:///bmuyl.github.io/ResourcesEloge/Inkscape/Archive.zip)
 
-[Fichiers Inkscape](file://bmuyl.github.io/ResourcesEloge/Inkscape/)
+[Fichiers Inkscape](file:///bmuyl.github.io/ResourcesEloge/Inkscape/)
 
 
-![test](https://bmuyl.github.io/ResourcesEloge/Images/UNADJUSTEDNONRAW_thumb_10441.jpg)
 
-![test](https://bmuyl.github.io/ResourcesEloge/Images/UNADJUSTEDNONRAW_thumb_10444.jpg)
 
 ## Un rapide historique en images
 ![test](https://bmuyl.github.io/ResourcesEloge/Images/Laborit-Henri-Eloge-De-La-Fuite-Livre-1023096599_L.jpg)
@@ -22,6 +20,8 @@
 ![test](https://bmuyl.github.io/ResourcesEloge/Images/Screenshot 2019-04-27 at 12.04.44.png)
 
 ![test](https://bmuyl.github.io/ResourcesEloge/Images/Screenshot 2019-04-27 at 12.04.25.png)
+
+![test](https://bmuyl.github.io/ResourcesEloge/Images/UNADJUSTEDNONRAW_thumb_10444.jpg)
 
 ![test](https://bmuyl.github.io/ResourcesEloge/Images/qg79WgYbRJuI6KraO0m1pw_thumb_101f6.jpg)
 
@@ -33,6 +33,9 @@
 ![test](https://bmuyl.github.io/ResourcesEloge/Images/UNADJUSTEDNONRAW_thumb_10321.jpg)
 
 ![test](https://bmuyl.github.io/ResourcesEloge/Images/UNADJUSTEDNONRAW_thumb_10381.jpg)
+
+![test](https://bmuyl.github.io/ResourcesEloge/Images/UNADJUSTEDNONRAW_thumb_10441.jpg)
+
 
 ![test](https://bmuyl.github.io/ResourcesEloge/Images/UNADJUSTEDNONRAW_thumb_10385.jpg)
 
