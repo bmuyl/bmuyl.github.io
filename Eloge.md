@@ -1,12 +1,15 @@
 # Eloge de la fuite
 
+![test](https://bmuyl.github.io/ResourcesEloge/Images/image1.png)
+
+
 ## Resources
 
-[Modèle 3d .. approché](file:///bmuyl.github.io/Images/ResourcesEloge/Modele3DNX/Assemblage.zip)
+[Modèle 3d .. approché](file://bmuyl.github.io/Images/ResourcesEloge/Modele3DNX/Assemblage.zip)
 
-[Fichiers Inkscape](file:///bmuyl.github.io/Images/ResourcesEloge/Inkscape/Archive.zip)
+[Fichiers Inkscape](file://bmuyl.github.io/Images/ResourcesEloge/Inkscape/Archive.zip)
 
-[Fichiers Inkscape](file:///bmuyl.github.io/Images/ResourcesEloge/Inkscape/)
+[Fichiers Inkscape](file://bmuyl.github.io/Images/ResourcesEloge/Inkscape/)
 
 
 ## Un rapide historique en images
