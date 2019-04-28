@@ -11,6 +11,10 @@
 
 ## Resources
 
+Site web de polices "one line": https://www.onelinefonts.com
+
+La police utilisée est: [OLF Script](https://www.onelinefonts.com/index.php?main_page=product_info&cPath=124_94&products_id=197&zenid=7op7qtn2ala9djji0e1st3l260)
+
 [Modèle 3d .. approché](file:///bmuyl.github.io/ResourcesEloge/Modele3DNX/Assemblage.zip)
 
 [Fichiers Inkscape](file:///bmuyl.github.io/ResourcesEloge/Inkscape/Archive.zip)
