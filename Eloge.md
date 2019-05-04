@@ -6,7 +6,7 @@
 
 ![test](./ResourcesEloge/Images/Logo-carre.png)
 
-## Resources
+## Ressources
 
 
 Site web de polices "one line": https://www.onelinefonts.com
@@ -19,7 +19,6 @@ La police utilisée est: [OLF Script](https://www.onelinefonts.com/index.php?mai
 
 [Fichiers Inkscape](./ResourcesEloge/Inkscape/Archive.zip)
 
-[Fichiers Inkscape](./ResourcesEloge/Inkscape/)
 
 
 ## Un rapide historique en images
@@ -70,3 +69,5 @@ Vue d'ensemble :-)
 ![test](./ResourcesEloge/Images/UNADJUSTEDNONRAW_thumb_1037d.jpg)
 
 ![test](./ResourcesEloge/Images/image1.png)
+
+![test](./ResourcesEloge/Images/IMG_0913.png)
