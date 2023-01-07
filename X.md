@@ -1,6 +1,6 @@
 # X
 
-![test](./ResourcesEloge/Images/image1.png)
+![test](./ResourcesX/134.mov)
 
 # Réalisé à [la fabrique du loch](https://www.lafabriqueduloch.org/fr/accueil/)
 
@@ -36,7 +36,6 @@
 ![test](./ResourcesX/21.jpeg)
 ![test](./ResourcesX/22.jpeg)
 ![test](./ResourcesX/23.jpeg)
-![test](./ResourcesX/24.jpeg)
 ![test](./ResourcesX/25.jpeg)
 ![test](./ResourcesX/26.jpeg)
 ![test](./ResourcesX/27.jpeg)
@@ -146,7 +145,6 @@
 ![test](./ResourcesX/131.jpeg)
 ![test](./ResourcesX/132.jpeg)
 ![test](./ResourcesX/133.jpeg)
-![test](./ResourcesX/134.mov)
 
 
 
